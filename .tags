@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+let.sarahedo	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/_DATA.js	/^let users = {$/;"	property	line:1
+let.8xf0y6ziyjabvozdd253nd	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/_DATA.js	/^let questions = {$/;"	property	line:37
+generateUID	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/_DATA.js	/^function generateUID () {$/;"	function	line:118
+generateUID	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/_DATA.js	/^function generateUID () {$/;"	function	line:118
+_getUsers	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/_DATA.js	/^export function _getUsers () {$/;"	function	line:122
+_getQuestions	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/_DATA.js	/^export function _getQuestions () {$/;"	function	line:128
+formatQuestion	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/_DATA.js	/^function formatQuestion ({ optionOneText, optionTwoText, author }) {$/;"	function	line:134
+formatQuestion	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/_DATA.js	/^function formatQuestion ({ optionOneText, optionTwoText, author }) {$/;"	function	line:134
+_saveQuestion	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/_DATA.js	/^export function _saveQuestion (question) {$/;"	function	line:150
+_saveQuestionAnswer	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/_DATA.js	/^export function _saveQuestionAnswer ({ authedUser, qid, answer }) {$/;"	function	line:174
+Would You Rather Project	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/README.md	/^# Would You Rather Project$/;"	function	line:1
+Data	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/README.md	/^## Data$/;"	function	line:9
+Users	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/README.md	/^### Users$/;"	function	line:16
+Questions	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/README.md	/^### Questions$/;"	function	line:28
+Voting Options	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/README.md	/^### Voting Options$/;"	function	line:40
+Contributing	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/README.md	/^## Contributing$/;"	function	line:98
+How to contribute	/Users/manon/Documents/Learn_programming/React/React_Redux/reactnd-project-would-you-rather-starter/CONTRIBUTING.md	/^# How to contribute$/;"	function	line:1
